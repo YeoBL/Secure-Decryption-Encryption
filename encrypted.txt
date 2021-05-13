@@ -1,0 +1,2 @@
+Enter encrypted text here!
+(only works for text encrypted with the encrypter.py in this branch)
